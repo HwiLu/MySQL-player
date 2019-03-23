@@ -1000,3 +1000,4 @@ OPTIMIZE [LOCAL | NO_WRITE_TO_BINLOG] TABLE tbl_name [, tbl_name] ...
 7. 清除已有语句：\c
 
 ```
+原文链接 https://shockerli.net/post/1000-line-mysql-note/
